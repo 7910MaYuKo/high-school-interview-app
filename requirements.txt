@@ -1,0 +1,6 @@
+streamlit
+openai
+plotly
+audio-recorder-streamlit==0.0.10
+python-dotenv
+pandas
